@@ -45,7 +45,8 @@ for any city in the world using the OpenWeatherMap API.
 
 ## 📸 Screenshot
 
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](screenshot1.png)
+(screenshot2.png)
 
 
 
