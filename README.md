@@ -3,7 +3,7 @@
 A responsive weather app that fetches live weather data and a 5-day forecast 
 for any city in the world using the OpenWeatherMap API.
 
-🔗 **Live Demo:** [Click here to view](https://your-netlify-link-here.netlify.app)
+🔗 **Live Demo:** [Click here to view](1weatherdashboard.netlify.app)
 
 ---
 
@@ -46,6 +46,9 @@ for any city in the world using the OpenWeatherMap API.
 ## 📸 Screenshot
 
 ![Weather Dashboard Screenshot](screenshot.png)
+
+
+
 ---
 
 ## 🚀 How to Run Locally
